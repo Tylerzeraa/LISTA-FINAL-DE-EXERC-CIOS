@@ -1,0 +1,15 @@
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\obj\Debug\net6.0\AtividadeRobin.csproj.AssemblyReference.cache
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\obj\Debug\net6.0\AtividadeRobin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\obj\Debug\net6.0\AtividadeRobin.AssemblyInfoInputs.cache
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\obj\Debug\net6.0\AtividadeRobin.AssemblyInfo.cs
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\obj\Debug\net6.0\AtividadeRobin.csproj.CoreCompileInputs.cache
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\bin\Debug\net6.0\AtividadeRobin.exe
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\bin\Debug\net6.0\AtividadeRobin.deps.json
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\bin\Debug\net6.0\AtividadeRobin.runtimeconfig.json
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\bin\Debug\net6.0\AtividadeRobin.dll
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\bin\Debug\net6.0\AtividadeRobin.pdb
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\obj\Debug\net6.0\AtividadeRobin.dll
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\obj\Debug\net6.0\refint\AtividadeRobin.dll
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\obj\Debug\net6.0\AtividadeRobin.pdb
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\obj\Debug\net6.0\AtividadeRobin.genruntimeconfig.cache
+C:\Users\ryano\Desktop\AtividadeRobin\AtividadeRobin\obj\Debug\net6.0\ref\AtividadeRobin.dll
